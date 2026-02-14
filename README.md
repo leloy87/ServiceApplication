@@ -24,3 +24,35 @@ Upon starting the application, you will be presented with the Main Menu with fou
 Contact
 For any issues or inquiries, please contact [st10102168@rcconnect.edu.za].
 
+Read Me file 
+1.	Steps to Compile:
+o	Open the solution file (ServicesApplication.sln) in Visual Studio.
+o	Build the solution by selecting Build > Build Solution from the main menu or pressing Ctrl+Shift+B.
+o	Address any errors indicated in the Error List pane, if present. None are present.
+Running the Application
+1.	Once compiled, run the application by pressing F5 or selecting Debug > Start Debugging.
+2.	The application will open with a main menu containing the following options:
+o	Report Issues: To report new and existing issues.
+o	Local Events and Announcements: To view municipal or community and even add new events.
+o	Service Request Status: To keep track of previously submitted service requests and status.
+o	Exit: Used to exit the application by clicking on it. 
+3.	Navigating the Application:
+o	Use the provided navigation buttons to return to the main menu or to move to other sections by just clicking.
+o	When submitting forms, use the “Submit” button to finalize entries
+o	When returning to main menu use the back button on each form.
+Using the application.
+1.	Report Issues:
+o	Enter the issue details, including location, category, and description.
+o	Attach any supporting media (images or documents).
+o	Submit the form; a message will confirm successful submission.
+o	View submissions, by clicking view submitted issues button, this will take you to a new form where you will see your submitted issues. 
+2.	Viewing Local Events:
+o	Use the search and filtering features to find events by category or event name.
+o	View all events and announcements. 
+o	Add event or announcements. 
+o	Event date format is 11/02/2026 
+3.	 Service Request Status:
+o	Enter your request ID to view status updates and track request progress.
+o	Search by category by “filter by status” if one has forgotten their requestID. 
+o	Refresh page to refresh data. 
+
